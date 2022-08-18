@@ -1,3 +1,3 @@
-# JsScratch
+# JsScrover
 
-JsScratch is a project player in JavaScript and HTML for MIT Scratch.
+JsScrover is an updated version of Truman Kilen's JsScratch. It adds ACTUAL SAY BLOCK IMPLEMENTATION and other stuff.
